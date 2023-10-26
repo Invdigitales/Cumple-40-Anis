@@ -1,0 +1,456 @@
+* body {
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(./imagenes/);
+  }
+  
+  /*PORTADA*/
+  
+ 
+  
+  
+  
+  img {
+    width: 100%;
+    margin-right: 50px;
+    box-shadow: 0px 3px 5px rgba(rgb(255, 255, 255), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
+  }
+  
+  /*CUENTA REGRESIVA*/
+  
+  @media (max-width: 730px) {
+    .cuenta-regresiva {
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      gap: 1em;
+      padding: 0.8em;
+      margin-top: 1%;
+  }
+  .cr-time > span {
+      font-size: 17px;
+      font-weight: bold;
+      color: #ECB2B0
+      
+  }
+  .cr-desc {
+      color: #ffffff;
+      font-family: 'Sacramento', cursive;
+      
+  }
+  .cr-block {
+      background: #2c2c2ce3;
+      border-radius: 5px;
+      padding: 0.1em 0.5em;
+      background-size: 30%;
+      background-image: url(./imagenes/grises.gif);
+  }
+  .Play{
+  
+    font-family: 'Sacramento', cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5%;
+    color: #9f9d9e;
+   
+   }
+    h5{
+    font-size: 30px;
+    text-align: center;
+    margin-top: -10%;
+    
+    
+    }
+    .audio{
+      width: 35%;
+      height: 20px;
+      margin-left: 32%;
+      background-color:  #888888;
+      
+      margin-top: -45%;
+      
+  }
+  
+  
+
+.fondo1{
+  margin-top: 7%;
+}
+
+.cajaceremonia{
+  margin-top: -410%;
+}
+
+  
+  .linea{
+    color:#898989;
+    width: 70%;
+   margin-left: 15%;
+   
+  }
+  .parrafo2{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+     font-size: 25px;
+     color:#4f1bfb;
+     
+  }
+  .parrafo3{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+     font-size: 20px;
+     color: #5f5f5f;
+  }
+  .click1 {
+    padding: 1px 9px;
+    font-size: 18px;
+    font-weight: 1500;
+    border: none;
+    color: #56506c;
+    background-color: #b5d99b98;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(253, 213, 255);
+    cursor: pointer;
+    margin-left: 32%;
+    margin-top: 4%;
+    background-image: url(./imagenes/mariposaazul.gif);
+    background-size: 40%;
+    font-family: 'Julius Sans One', sans-serif;
+  }
+  .copas{
+    width: 20%;
+    margin-left: 40%;
+  }
+ 
+  
+  .parrafo04{
+    text-align: center;
+    font-family: 'Dancing Script', cursive; 
+     font-size: 25px;
+     color: #888888;
+     margin-top: 10%;
+    
+
+  }
+  
+  
+  .cardimg{
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+   
+  }
+  
+  .cardtitle{
+    text-align: center;
+    font-family: 'Dancing Script', cursive; 
+     font-size: 25px;
+     color: #888888;
+  }
+  .cardtext{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+     font-size: 18px;
+     color: #888888;
+    margin-top: -3%;
+  }
+  .cardtext1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+     font-size: 18px;
+     color: #888888;
+     margin-top: 3%;
+  }
+  .mapa{
+    width: 80%;
+    height: 80%;
+    margin-left: 23%;
+  margin-top: 5%;
+
+  }
+  .hojas{
+    width: 30%;
+    margin-left: 36%;
+    margin-top: -15%;
+  }
+  
+  .btn_btn-primary{
+    padding: 1px 9px;
+    font-size: 24px;
+    font-weight: 1200;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: #E08D84;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(253, 213, 255);
+    cursor: pointer;
+    margin-left: 34%;
+    margin-top: 4%;
+    background-image: url(./imagenes/NMG4.gif);
+    background-size: 50%;
+    font-family: 'Dancing Script', cursive; 
+  }
+  
+ .main1{
+  margin-top: 180%;
+ }
+ .parrafo6{
+  text-align: center;
+    font-family: 'Great Vibes', cursive;
+     font-size: 25px;
+     color: #888888;
+     margin-top: -120%;
+     
+ }
+ .whatsap{
+  width: 40%;
+  margin-left: 30%;
+ }
+.icono{
+  text-align: center;
+    font-family:'Times New Roman', Times, serif; 
+     font-size: 13px;
+     color:#656565;
+    
+ }
+ .whatsap{
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 8%;
+ }
+ .agos{
+  width: 20%;
+  margin-top: -50%;
+  margin-left: 15%;
+ }
+ .jon{
+  width: 20%;
+  margin-top: -50%;
+  margin-left: 18%;
+ }
+ .fondo4{
+  margin-top: -14%;
+ }
+ 
+ .btn-primary3 {
+  padding: 1px 9px;
+  font-size: 24px;
+  font-weight: 1200;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color: #E08D84;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(253, 213, 255);
+  cursor: pointer;
+  margin-left: 38%;
+  margin-top: -4%;
+  background-image: url(./imagenes/NMG4.gif);
+  background-size: 50%;
+  font-family: 'Dancing Script', cursive; 
+ 
+ }
+
+ .parrafo_deposito{
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+   font-size: 25px;
+   color: #888888;
+   margin-top: -120%;
+ }
+ .cbu{
+  width: 60%;
+  margin-left: 23%;
+ }
+
+ .card_card-body img{
+  margin-left: 29%;
+  background-size: 80%;
+  width: 75%;
+}
+.btn_btn-primary2{
+  padding: 1px 9px;
+  font-size: 24px;
+  font-weight: 1200;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color: #E08D84;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(253, 213, 255);
+  cursor: pointer;
+  margin-left: 34%;
+  margin-top: 4%;
+  background-image: url(./imagenes/NMG4.gif);
+  background-size: 50%;
+  font-family: 'Dancing Script', cursive;  
+}
+ .parrafo_esperamos{
+  text-align: center;
+    font-family: 'Dancing Script', cursive;
+     font-size: 24px;
+     color: #888888;
+     margin-top: 40%;
+ }
+ .linea4{
+  margin-top: -5%;
+  color: #f3f3f3;
+}
+.linea5{
+  color:#898989;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: -130%;
+}
+
+
+
+
+.tecla {
+margin-top: -50%;
+ margin-left: 50%;
+}
+
+.box__copyright{
+  margin-top: 32%;
+}
+
+
+.box__copyright p {
+  margin-top: -10px;
+  color: #cacaca;
+  font-size: 10px;
+  text-align: center;
+}
+
+.box__copyright a {
+  text-decoration: none;
+  color: #c3c3c3;
+}
+
+
+.box__copyright p {
+  margin-top: -10px;
+  color: #cacaca;
+  font-size: 10px;
+  text-align: center;
+}
+
+.box__copyright a {
+  text-decoration: none;
+  color: #c3c3c3;
+}
+
+.quince{
+  width: 39%;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+.gif-final {
+width: 20%;
+margin-top: -50%;
+margin-left: 32%;
+}
+
+
+.linea4{
+    
+  color: #789d7d;
+}
+.tecla a {
+  text-decoration: none;
+  width: 30px;
+  color: rgb(254, 212, 251);
+  margin-top: -120px;
+}
+
+.tecla {
+margin-top: 5%;
+ margin-left: 50%;
+}
+
+
+.logo{
+  width: 35%;
+  margin-left: 55%;
+  margin-top: -45%;
+} 
+
+}
+
+.spinner {
+  height: 50px;
+  width: max-content;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: monospace;
+  letter-spacing: 1em;
+  color: #3f433f;
+  filter: drop-shadow(0 0 10px);
+  display: flex;
+  justify-content: center;
+ margin-left: 29%;
+ margin-top: 7%;
+ }
+ 
+ .spinner span {
+  animation: loading6454 1.75s ease infinite;
+ }
+ 
+ .spinner span:nth-child(2) {
+  animation-delay: 0.25s;
+ }
+ 
+ .spinner span:nth-child(3) {
+  animation-delay: 0.5s;
+ }
+ 
+ .spinner span:nth-child(4) {
+  animation-delay: 0.75s;
+ }
+ 
+ .spinner span:nth-child(5) {
+  animation-delay: 1s;
+ }
+ 
+ .spinner span:nth-child(6) {
+  animation-delay: 1.25s;
+ }
+ 
+ .spinner span:nth-child(7) {
+  animation-delay: 1.5s;
+ }
+ 
+ @keyframes loading6454 {
+  0%, 100% {
+   transform: translateY(0);
+  }
+ 
+  50% {
+   transform: translateY(-10px);
+  }
+ }
+
+ .loader-pulse {
+  width: 34px;
+  height: 34px;
+  border-radius: 10%;
+  margin-left: 72%;
+  margin-top: -15%;
+  background: #f6f6f69d;
+  animation: load-pulse 0.85s infinite linear;
+}
+
+@keyframes load-pulse {
+  0% {
+    transform: scale(0.15);
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
