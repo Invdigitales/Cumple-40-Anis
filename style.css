@@ -123,7 +123,12 @@
     margin-top: -5%;
     
   }
- 
+  .ropa{
+    width: 15%;
+    margin-left: 25%;
+    margin-top: -5%;
+    
+  }
   
   }
   
@@ -147,11 +152,11 @@
      color: #888888;
      margin-top: 3%;
   }
-  .mapa{
-    width: 80%;
-    height: 80%;
-    margin-left: 23%;
-  margin-top: 5%;
+  .ubi{
+    width: 15%;
+    margin-left: 25%;
+    margin-top: 3%;
+
 
   }
   
@@ -314,7 +319,7 @@
 .cards .card p.second-text {
   font-size: 16px;
   font-family: 'Julius Sans One', sans-serif;
- 
+  color: #fafafa;
 }
 
 .cards .card:hover {
