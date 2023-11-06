@@ -52,6 +52,21 @@
     margin-top: 8%;
 
   }
+  .img2{
+    width: 90%;
+    margin-left: 6%;
+    background-color: #3f433f;
+    margin-top: -340%;
+
+  }
+  .fondo3{
+    margin-top: 70%;
+  }
+  .espero{
+    width: 50%;
+    margin-top: -150%;
+    margin-left: 27%;
+  }
   .Play{
   
     font-family: 'Sacramento', cursive;
@@ -98,8 +113,10 @@
   .parrafo2{
     text-align: center;
     font-family: 'Julius Sans One', sans-serif;
-     font-size: 25px;
-     color:#4f1bfb;
+     font-size: 15px;
+     color:#f9f9fa;
+     margin-top: -548%;
+   
      
   }
   .parrafo3{
@@ -256,8 +273,8 @@
   display: flex;
   flex-direction: column;
   gap: 15px;
-  margin-top: -330%;
   margin-left: 18%;
+  margin-top: 10%;
 }
 
 .cards .red {
@@ -279,8 +296,8 @@
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  height: 170px;
-  width: 250px;
+  height: 260px;
+  width: 240px;
   border-radius: 10px;
   color: #ECB2B0;
   cursor: pointer;
@@ -290,6 +307,8 @@
   background-size: 15%;
 
 }
+
+
 
 .cards .card p.tip {
   font-size: 20px;
